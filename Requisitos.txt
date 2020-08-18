@@ -1,3 +1,4 @@
-O sistema deve autenticar a identidade do usuário.
-O sistema deve mover o carro mais próximo do usuário.
-O usuário deve solicitar o transporte via aplicativo mobile.
+O sistema tem por finalidade definir uma trajétoria na qual um determinado usuário será deslocado de um ponto ao outro, de forma aérea,
+sem exceder o limite de preço de 10 dólares por viagem, é necessário que pontos sejam levados em consideração como, a música que está  tocando no rádio,
+a temperatura do ar-condicionado, o nível de abertura das janelas, e todos os outros pontos condizentes ao conforto do usuário. O usuário deve sair de um ponto
+e chegar ao seu destino, da forma mais rápida, eficiente e confortável possível, sem acidentes.

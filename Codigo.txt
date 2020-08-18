@@ -1,0 +1,14 @@
+Descrever como desenvolver os componentes especificados em design.txt para atender o que está emrequisitos.txt.
+
+O aplicativo mobile deve ser desenvolvido para os dois sistemas operacionais mobiles mais utilizados em todo o mundo,
+para Android e IOS.
+
+
+O carro deve conter sensores programados para que seja realizada a medição do nível de gasolina e temperatura interna 
+do automóvel, assim como também para realizar manutenções preventivas e corretivas do automóvel
+
+O aplicativo não deve suportar viagens com valor acima de 10 reais.
+
+O aplicativo contará com inteligencia artifical, para que, com a permissão do usuários, possa mapeá-lo em sua base
+de dados, definindo gostos musicais, temperatura preferível entre outras informações relevantes.
+

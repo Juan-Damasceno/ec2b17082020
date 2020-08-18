@@ -1,0 +1,7 @@
+Teste: deverá descrever como testar os requisitos do sistema.
+
+Os testes devem ser efetuados primordialmente em uma realidade virtual para que seja observado o comportamentos dos carros,
+após a finalização e correção dessa primeira fase de testes, o sistema deve ser implantado em apenas um carro na vida real, comportando
+um boneco que simule um humano.
+
+Após o progresso dos primeiros testes, gradativamente o sistema seria implantado em mais carros até que se distribuísse através do mundo.

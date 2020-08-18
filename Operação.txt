@@ -1,0 +1,7 @@
+Operação: deverá descrever como implantar e operar o sistema em um arquivo chamado operação.txt.
+
+O sistema será implantado ainda na concessionária, específicando assim, carros únicamente para esse propósito,
+não havendo interferência humana que pode vir a provavelmente ocasionar erros. 
+
+O sistema será operado por uma inteligência artificial que ainda sim, será submetida a um controle especializado de uma equipe técnica em caso
+de necessidade de intervenção.

@@ -1,0 +1,24 @@
+A empresa X quer fazer viagens com um carro voador
+	que transporta pessoas com limite de preço de até
+	10 dolares por viagem. 
+
+A quantidade e os nomes dos componentes de software e a forma de fazer os links entre eles:
+
+O sistema contará com uma integração entre o cérebro principal (sistema desenvolvido) com o Google Maps,
+programa de Geolocalização da Google. 
+
+O cérebro será construído para o ambiente mobile, tendo em vista a praticidade e a disponibilidade que tais dispositivos fornecem.
+
+O aplicativo será programado para obter as informações cadastrais dos usuários e armazená-las de forma segura, assim como os pontos
+de origem e destino e as informações de pagamento. Tendo essas informações, o sistema será responsável por realizar o cálculo da rota,
+não permitindo viagens com preço superior a 10 dólares
+
+O sistema também será responsável pela manutenção preventiva e corrtiva do carro, identificando erros e encontrando métodos para
+que seja possível repará-lo, o sistema também ira realizar o monitoramento do estado atual do veículo a partir dos sensores,
+definindo níveis de gasolina, temperatura e etc.
+
+Também é de suma importância que o sistema de um carro realize intregação com os demais sistemas dos outros carros, para que não haja 
+casos de colisões ou acidentes aéreos.
+
+
+
