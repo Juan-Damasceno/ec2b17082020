@@ -1,0 +1,3 @@
+O sistema deve autenticar a identidade do usuário.
+O sistema deve mover o carro mais próximo do usuário.
+O usuário deve solicitar o transporte via aplicativo mobile.
